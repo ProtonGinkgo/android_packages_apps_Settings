@@ -32,7 +32,9 @@
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
 
-    <!-- String for removal of sensitive info on about, 
-    depending on tap -->
+    <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
 </resources>
