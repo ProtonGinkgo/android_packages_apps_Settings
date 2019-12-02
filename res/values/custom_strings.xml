@@ -41,6 +41,7 @@
 
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Build date</string>
+    <string name="about_device_name">Device</string>
 
     <!--Double Tap to Sleep Lockscreen-->
     <string name="lockscreen_tweaks_category_title">What to do</string>
