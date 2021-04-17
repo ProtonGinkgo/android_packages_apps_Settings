@@ -40,4 +40,7 @@
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+
+    <!-- Statusbar tuner -->
+    <string name="statusbar_tuner_title">Statusbar tuner</string>
 </resources>
