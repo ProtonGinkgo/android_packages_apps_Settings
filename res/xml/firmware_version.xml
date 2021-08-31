@@ -72,6 +72,7 @@
         android:key="maintainer"
         android:title="@string/maintainer"
         android:summary="@string/maintainer_name"
+        android:selectable="false"
         settings:enableCopying="true" />
 
     <!-- Baseband -->
